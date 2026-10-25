@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Pure C# (no UnityEngine). netstandard2.1 + C# 9 so Unity 6 can consume the sources/DLL
+       and the same code can run in the headless dedicated server. -->
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <RootNamespace>TowerOfChaos.GameCore</RootNamespace>
+    <AssemblyName>TowerOfChaos.GameCore</AssemblyName>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+</Project>

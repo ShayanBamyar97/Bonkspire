@@ -1,0 +1,1709 @@
+{
+ "traps": [
+  {
+   "id": "T01",
+   "nameEn": "Mega Whoopee Cushion",
+   "nameFa": "کوسن گوزو و ابر شیمیایی",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T02",
+   "nameEn": "Giant Banana Peel",
+   "nameFa": "پوست موز غول‌پیکر",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T03",
+   "nameEn": "Spring Boxing Glove",
+   "nameFa": "دستکش بوکس فنری درِ دیوار",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T04",
+   "nameEn": "Cream Pie Cannon",
+   "nameFa": "توپ پرتاب کیک خامه‌ای",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T05",
+   "nameEn": "Bungee Rope Snare",
+   "nameFa": "تله فنر شلوارک",
+   "homeFloor": 2,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T06",
+   "nameEn": "Helium Vent",
+   "nameFa": "دریچه گاز هلیوم",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T07",
+   "nameEn": "Squeaky Giant Hammer",
+   "nameFa": "چکش بادی دلقک",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T08",
+   "nameEn": "Airhorn Trap",
+   "nameFa": "شیپور بوق کامیون",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T09",
+   "nameEn": "Blackout & Whisper",
+   "nameFa": "خاموشی ناگهانی و نجوا",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T10",
+   "nameEn": "Haunted Mirror",
+   "nameFa": "آینه روح‌دار",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T11",
+   "nameEn": "Iron Maiden Coffin",
+   "nameFa": "تابوت میخ‌دار",
+   "homeFloor": 3,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T12",
+   "nameEn": "Blood Swamp Rug",
+   "nameFa": "فرش خونی چسبنده",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "BlocksWithBypass",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T13",
+   "nameEn": "Falling Chandelier",
+   "nameFa": "لوستر سقوط‌کننده",
+   "homeFloor": 3,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T14",
+   "nameEn": "Drop Widow Spider",
+   "nameFa": "عنکبوت سقفی",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T15",
+   "nameEn": "Cursed Bell",
+   "nameFa": "زنگ کلیسای نفرین‌شده",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T16",
+   "nameEn": "Static Poltergeist TV",
+   "nameFa": "تلویزیون برفکی",
+   "homeFloor": 3,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T17",
+   "nameEn": "Inverted Gas",
+   "nameFa": "مه سرگیجه",
+   "homeFloor": 4,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T18",
+   "nameEn": "Abyssal Blindness",
+   "nameFa": "نفرین تاریکی",
+   "homeFloor": 4,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T19",
+   "nameEn": "Mirage Door",
+   "nameFa": "درگاه سراب",
+   "homeFloor": 4,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T20",
+   "nameEn": "Mimic Chest",
+   "nameFa": "صندوقچه میمیک",
+   "homeFloor": 4,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T21",
+   "nameEn": "Phantom Rival",
+   "nameFa": "شبح تعقیب‌کننده",
+   "homeFloor": 4,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T22",
+   "nameEn": "Mirror Flip",
+   "nameFa": "اتاق آینه‌ای",
+   "homeFloor": 4,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T23",
+   "nameEn": "Swapped Reality",
+   "nameFa": "توهم جایزه و تیغ",
+   "homeFloor": 4,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T24",
+   "nameEn": "Mirage Portal",
+   "nameFa": "پورتال کاذب سراب",
+   "homeFloor": 4,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T25",
+   "nameEn": "Moving Laser Grid",
+   "nameFa": "شبکه لیزری متحرک",
+   "homeFloor": 5,
+   "tier": "B",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T26",
+   "nameEn": "EMP Stasis Field",
+   "nameFa": "میدان EMP خاموش‌کننده",
+   "homeFloor": 5,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T27",
+   "nameEn": "Zero-G Bubble",
+   "nameFa": "تله جاذبه صفر",
+   "homeFloor": 5,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T28",
+   "nameEn": "Glitch Teleporter",
+   "nameFa": "صفحه تله‌پورت تصادفی",
+   "homeFloor": 5,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T29",
+   "nameEn": "Phase Barrier",
+   "nameFa": "دیوار هولوگرافیک زمان‌دار",
+   "homeFloor": 5,
+   "tier": "S",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 2.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T30",
+   "nameEn": "Vortex Drone",
+   "nameFa": "ربات جاروبرقی مکنده",
+   "homeFloor": 5,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T31",
+   "nameEn": "Whirlpool Canal",
+   "nameFa": "کانال آب عمیق و گرداب",
+   "homeFloor": 6,
+   "tier": "A",
+   "policy": "BlocksWithBypass",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T32",
+   "nameEn": "Acid Pool",
+   "nameFa": "حوضچه اسید جوشان",
+   "homeFloor": 6,
+   "tier": "A",
+   "policy": "BlocksWithBypass",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T33",
+   "nameEn": "Glacier Ice Floor",
+   "nameFa": "کف یخی سرسره‌ای",
+   "homeFloor": 8,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T34",
+   "nameEn": "Runaway Minecart",
+   "nameFa": "واگن معدن دیوانه",
+   "homeFloor": 7,
+   "tier": "C",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T35",
+   "nameEn": "Fuse Dynamite",
+   "nameFa": "بشکه‌های دینامیت فتیله‌دار",
+   "homeFloor": 7,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T36",
+   "nameEn": "Snowball Avalanche",
+   "nameFa": "بهمن گلوله‌های برفی",
+   "homeFloor": 8,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T37",
+   "nameEn": "Gale Wind Tunnel",
+   "nameFa": "تونل باد مخالف",
+   "homeFloor": 8,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T38",
+   "nameEn": "Lava Geyser",
+   "nameFa": "فواره گدازه زمان‌دار",
+   "homeFloor": 10,
+   "tier": "C",
+   "policy": "TimedBlocks",
+   "shape": "Tile",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T39",
+   "nameEn": "Lasso Snare",
+   "nameFa": "طناب کمند گاوچران",
+   "homeFloor": 7,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T40",
+   "nameEn": "Falling Icicles",
+   "nameFa": "قندیل‌های سقفی",
+   "homeFloor": 8,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T41",
+   "nameEn": "Auto-Sentry Turret",
+   "nameFa": "تورت مسلسل خودکار",
+   "homeFloor": 9,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T42",
+   "nameEn": "Claymore Mine",
+   "nameFa": "مین کلیمور لیزری",
+   "homeFloor": 9,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T43",
+   "nameEn": "Explosive Fuel Barrel",
+   "nameFa": "بشکه سوخت قرمز",
+   "homeFloor": 9,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T44",
+   "nameEn": "CS Tear Gas",
+   "nameFa": "گاز اشک‌آور تاکتیکی",
+   "homeFloor": 9,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T45",
+   "nameEn": "Electrified Barbed Wire",
+   "nameFa": "سیم‌خاردار برق‌دار",
+   "homeFloor": 9,
+   "tier": "B",
+   "policy": "BlocksWithBypass",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T46",
+   "nameEn": "Mortar Strike Beacon",
+   "nameFa": "حسگر حرکتی توپخانه",
+   "homeFloor": 9,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T47",
+   "nameEn": "Pendulum Scythe",
+   "nameFa": "تیغه پاندولی",
+   "homeFloor": 0,
+   "tier": "B",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T48",
+   "nameEn": "Cracked Floor Tile",
+   "nameFa": "کاشی ریزشی",
+   "homeFloor": 0,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T49",
+   "nameEn": "Pinball Bumper",
+   "nameFa": "فنر پین‌بال",
+   "homeFloor": 0,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T50",
+   "nameEn": "Rhythmic Spikes",
+   "nameFa": "نیزه‌های ریتمیک کف",
+   "homeFloor": 0,
+   "tier": "B",
+   "policy": "TimedBlocks",
+   "shape": "Tile",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T51",
+   "nameEn": "Crusher Jaws",
+   "nameFa": "دیوارهای فشرده‌ساز",
+   "homeFloor": 0,
+   "tier": "C",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 2.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T52",
+   "nameEn": "Rolling Boulder",
+   "nameFa": "غلتک میخ‌دار",
+   "homeFloor": 0,
+   "tier": "C",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T53",
+   "nameEn": "Shifting Conveyor",
+   "nameFa": "تردمیل تغییر جهت",
+   "homeFloor": 0,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T54",
+   "nameEn": "Greed Cage",
+   "nameFa": "قفس طلایی طمع",
+   "homeFloor": 0,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T55",
+   "nameEn": "Blood Altar",
+   "nameFa": "قربانگاه خون",
+   "homeFloor": 0,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T56",
+   "nameEn": "Roulette Pedestal",
+   "nameFa": "چرخ گردونه سرنوشت",
+   "homeFloor": 0,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T57",
+   "nameEn": "Betrayal Lever",
+   "nameFa": "اهرم خیانت نفر اول",
+   "homeFloor": 0,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "T58",
+   "nameEn": "Seesaw Bridge",
+   "nameFa": "پل الاکلنگی روی آب",
+   "homeFloor": 6,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "T59",
+   "nameEn": "Hot Potato Orb",
+   "nameFa": "بمب ساعتی پاس‌کاری",
+   "homeFloor": 0,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "T60",
+   "nameEn": "Chain Tesla Coil",
+   "nameFa": "ستون صاعقه زنجیره‌ای",
+   "homeFloor": 0,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "T61",
+   "nameEn": "Arrow Slit Wall",
+   "nameFa": "دیوار تیرانداز",
+   "homeFloor": 1,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T62",
+   "nameEn": "Skull Bowling",
+   "nameFa": "بولینگ جمجمه",
+   "homeFloor": 1,
+   "tier": "B",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T63",
+   "nameEn": "Skeleton Hand Pit",
+   "nameFa": "دست‌های اسکلت",
+   "homeFloor": 1,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T64",
+   "nameEn": "Torch Gust",
+   "nameFa": "وزش مشعل",
+   "homeFloor": 1,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T65",
+   "nameEn": "Rubber Chicken Launcher",
+   "nameFa": "پرتابگر مرغ لاستیکی",
+   "homeFloor": 2,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T66",
+   "nameEn": "Confetti Cannon",
+   "nameFa": "توپ کانفتی",
+   "homeFloor": 2,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T67",
+   "nameEn": "Soap Bubble Lane",
+   "nameFa": "خط حباب صابون",
+   "homeFloor": 2,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T68",
+   "nameEn": "Clown Car Rush",
+   "nameFa": "هجوم ماشین دلقک",
+   "homeFloor": 2,
+   "tier": "C",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T69",
+   "nameEn": "Doll Choir",
+   "nameFa": "گروه کر عروسک‌ها",
+   "homeFloor": 3,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T70",
+   "nameEn": "Shadow Hand",
+   "nameFa": "دست سایه",
+   "homeFloor": 3,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T71",
+   "nameEn": "Lantern Lure",
+   "nameFa": "فانوس فریب",
+   "homeFloor": 3,
+   "tier": "S",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T72",
+   "nameEn": "Gravity Roll",
+   "nameFa": "چرخش جاذبه",
+   "homeFloor": 4,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T73",
+   "nameEn": "Clone Swarm",
+   "nameFa": "ازدحام همزاد",
+   "homeFloor": 4,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T74",
+   "nameEn": "Time Echo",
+   "nameFa": "پژواک زمان",
+   "homeFloor": 4,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T75",
+   "nameEn": "Magnet Floor",
+   "nameFa": "کف مغناطیسی",
+   "homeFloor": 5,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T76",
+   "nameEn": "Hack Terminal",
+   "nameFa": "ترمینال هک",
+   "homeFloor": 5,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T77",
+   "nameEn": "Drone Swarm",
+   "nameFa": "ازدحام پهپاد",
+   "homeFloor": 5,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T78",
+   "nameEn": "Quicksand Whirl",
+   "nameFa": "ماسه روان",
+   "homeFloor": 6,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T79",
+   "nameEn": "Spore Pop",
+   "nameFa": "قارچ هاگ",
+   "homeFloor": 6,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T80",
+   "nameEn": "Leech Vines",
+   "nameFa": "پیچک زالو",
+   "homeFloor": 6,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "T81",
+   "nameEn": "Tumbleweed Stampede",
+   "nameFa": "هجوم علف غلتان",
+   "homeFloor": 7,
+   "tier": "B",
+   "policy": "TimedBlocks",
+   "shape": "FullRow",
+   "safeWindow": 1.5,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T82",
+   "nameEn": "Saloon Swing Doors",
+   "nameFa": "درهای چرخان سالون",
+   "homeFloor": 7,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T83",
+   "nameEn": "Gold Rush Trolley",
+   "nameFa": "واگن طلای طمع",
+   "homeFloor": 7,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T84",
+   "nameEn": "Thin Ice",
+   "nameFa": "یخ نازک",
+   "homeFloor": 8,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T85",
+   "nameEn": "Frost Breath Statue",
+   "nameFa": "مجسمه نفس یخی",
+   "homeFloor": 8,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T86",
+   "nameEn": "Snowman Brigade",
+   "nameFa": "گردان آدم‌برفی",
+   "homeFloor": 8,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T87",
+   "nameEn": "Flashbang Trip",
+   "nameFa": "سیم‌تله فلش‌بنگ",
+   "homeFloor": 9,
+   "tier": "B",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T88",
+   "nameEn": "Barricade Gate",
+   "nameFa": "سنگر مسدود",
+   "homeFloor": 9,
+   "tier": "A",
+   "policy": "BlocksWithBypass",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T89",
+   "nameEn": "Recon Strike",
+   "nameFa": "حمله هوایی پهپاد",
+   "homeFloor": 9,
+   "tier": "C",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  },
+  {
+   "id": "T90",
+   "nameEn": "Fate Dice Altar",
+   "nameFa": "مذبح تاس سرنوشت",
+   "homeFloor": 10,
+   "tier": "A",
+   "policy": "NeverBlocks",
+   "shape": "Tile",
+   "safeWindow": 0.0,
+   "interactive": false,
+   "release": "update1"
+  }
+ ],
+ "rewards": [
+  {
+   "id": "R01",
+   "nameEn": "Vitality Orb",
+   "nameFa": "اکسیر حیات",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R02",
+   "nameEn": "Titanium Shield",
+   "nameFa": "گنبد تیتانیوم",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R03",
+   "nameEn": "Ghostwalker Boots",
+   "nameFa": "چکمه‌های شبح‌آسا",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R04",
+   "nameEn": "Mini-Rocket Boost",
+   "nameFa": "پرتابگر صعود",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R05",
+   "nameEn": "Clarity & Gas Mask",
+   "nameFa": "ماسک ضدگاز و حباب ضدتوهم",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R06",
+   "nameEn": "Tactical Supply Box",
+   "nameFa": "جعبه مهمات تصادفی",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R07",
+   "nameEn": "Skill Overcharge",
+   "nameFa": "اورشارژ مهارت",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R08",
+   "nameEn": "Thorn Mail",
+   "nameFa": "زره بازتابنده تیغ",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R09",
+   "nameEn": "Auto-Sentry Orb",
+   "nameFa": "پهپاد محافظ خودکار",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R10",
+   "nameEn": "Free Oracle Token",
+   "nameFa": "توکن رایگان چشم بصیرت",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R11",
+   "nameEn": "Portal Compass",
+   "nameFa": "قطب‌نمای پورتال",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R12",
+   "nameEn": "Leader's Curse",
+   "nameFa": "نفرین پیشتاز",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R13",
+   "nameEn": "Treasure Jackpot",
+   "nameFa": "کیسه سکه و جم",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R14",
+   "nameEn": "Master Key",
+   "nameFa": "کلید طلایی",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R15",
+   "nameEn": "Double Trap Charge",
+   "nameFa": "بسته تله دوبل",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R16",
+   "nameEn": "Monster Slayer Buff",
+   "nameFa": "مشت آهنین هیولاکُش",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R17",
+   "nameEn": "Trap Stealer",
+   "nameFa": "تله‌ربای مغناطیسی",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R18",
+   "nameEn": "Stealth Tracker",
+   "nameFa": "ردپای نامرئی",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R19",
+   "nameEn": "Titan Elixir",
+   "nameFa": "شربت غول‌پیکری",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R20",
+   "nameEn": "Staircase Sprint",
+   "nameFa": "بلیت آسانسور پله",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R21",
+   "nameEn": "Gambler's Coin",
+   "nameFa": "سکه قمارباز",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R22",
+   "nameEn": "Slow-Time Bubble",
+   "nameFa": "حباب زمان‌کند",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R23",
+   "nameEn": "Lucky Dice",
+   "nameFa": "تاس شانس",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R24",
+   "nameEn": "Decoy Banner",
+   "nameFa": "پرچم فریب",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R25",
+   "nameEn": "Chain Breaker",
+   "nameFa": "زنجیرشکن",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R26",
+   "nameEn": "Trap Echo",
+   "nameFa": "پژواک تله",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R27",
+   "nameEn": "Elemental Ward",
+   "nameFa": "طلسم دفع المان",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R28",
+   "nameEn": "True Sight Elixir",
+   "nameFa": "اکسیر دید حقیقی",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R29",
+   "nameEn": "Cursed Idol",
+   "nameFa": "بت نفرین‌شده",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R30",
+   "nameEn": "Clown Surprise Box",
+   "nameFa": "جعبه شگفتی دلقک",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R31",
+   "nameEn": "Loot Magnet",
+   "nameFa": "طلسم جاذبه",
+   "rarity": "Common",
+   "release": "v1.0"
+  },
+  {
+   "id": "R32",
+   "nameEn": "Energy Cell",
+   "nameFa": "کوله انرژی",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R33",
+   "nameEn": "Deflector",
+   "nameFa": "سپر بازتاب‌دهنده",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R34",
+   "nameEn": "Hunter's Tracker",
+   "nameFa": "ردیاب شکارچی",
+   "rarity": "Rare",
+   "release": "v1.0"
+  },
+  {
+   "id": "R35",
+   "nameEn": "Watcher's Chalice",
+   "nameFa": "جام دیدبان",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R36",
+   "nameEn": "Portal Whisper",
+   "nameFa": "نجوای پورتال",
+   "rarity": "Epic",
+   "release": "v1.0"
+  },
+  {
+   "id": "R37",
+   "nameEn": "Dice Jump Token",
+   "nameFa": "بلیت پرش",
+   "rarity": "Legendary",
+   "release": "update1"
+  }
+ ],
+ "monsters": [
+  {
+   "id": "M01",
+   "nameEn": "Shield Skeleton",
+   "nameFa": "اسکلت سپردار",
+   "floor": 1,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M02",
+   "nameEn": "Stone Gargoyle",
+   "nameFa": "گولم سنگی پله",
+   "floor": 1,
+   "boss": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "M03",
+   "nameEn": "Gassy Goblin",
+   "nameFa": "غول لوبیاخور گوزو",
+   "floor": 2,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M04",
+   "nameEn": "Cream Pie Jester",
+   "nameFa": "دلقک کیک‌پران",
+   "floor": 2,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M05",
+   "nameEn": "Chef Flatulence",
+   "nameFa": "سرآشپز دیوانه لوبیاپزی",
+   "floor": 2,
+   "boss": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "M06",
+   "nameEn": "Screaming Doll",
+   "nameFa": "عروسک جیغ‌کش تاریکی",
+   "floor": 3,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M07",
+   "nameEn": "Weeping Stalker",
+   "nameFa": "شبح مجسمه گریان",
+   "floor": 3,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M08",
+   "nameEn": "The Butcher",
+   "nameFa": "جلاد زنجیردار تیمارستان",
+   "floor": 3,
+   "boss": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "M09",
+   "nameEn": "Shadow Doppelganger",
+   "nameFa": "همزاد سایه‌ای",
+   "floor": 4,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M10",
+   "nameEn": "Mirage Weaver",
+   "nameFa": "ارباب هزارچهره سراب",
+   "floor": 4,
+   "boss": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "M11",
+   "nameEn": "Cyber Enforcer",
+   "nameFa": "پهپاد شوکر سایبری",
+   "floor": 5,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M12",
+   "nameEn": "Omega Core",
+   "nameFa": "مکعب هسته‌ای نگهبان",
+   "floor": 5,
+   "boss": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "M13",
+   "nameEn": "Venus Man-Trap",
+   "nameFa": "گیاه گوشت‌خوار غول‌پیکر",
+   "floor": 6,
+   "boss": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "M14",
+   "nameEn": "Swamp Leviathan",
+   "nameFa": "پادشاه تمساح‌های اسیدی",
+   "floor": 6,
+   "boss": true,
+   "release": "update1"
+  },
+  {
+   "id": "M15",
+   "nameEn": "Mad Bomber Bandit",
+   "nameFa": "یاغی دینامیت‌انداز",
+   "floor": 7,
+   "boss": false,
+   "release": "update1"
+  },
+  {
+   "id": "M16",
+   "nameEn": "Sheriff Ironjaw",
+   "nameFa": "کلانتر اسکلتی لوکوموتیو",
+   "floor": 7,
+   "boss": true,
+   "release": "update1"
+  },
+  {
+   "id": "M17",
+   "nameEn": "Frost Yeti",
+   "nameFa": "یتی برف‌انداز",
+   "floor": 8,
+   "boss": false,
+   "release": "update1"
+  },
+  {
+   "id": "M18",
+   "nameEn": "Frostmourne Jarl",
+   "nameFa": "غول یخی وایکینگ",
+   "floor": 8,
+   "boss": true,
+   "release": "update1"
+  },
+  {
+   "id": "M19",
+   "nameEn": "Spec-Ops Sniper",
+   "nameFa": "تک‌تیرانداز لیزری و کماندو",
+   "floor": 9,
+   "boss": false,
+   "release": "update1"
+  },
+  {
+   "id": "M20",
+   "nameEn": "Juggernaut Mech",
+   "nameFa": "تورت زرهی جاگرنات",
+   "floor": 9,
+   "boss": true,
+   "release": "update1"
+  },
+  {
+   "id": "M21",
+   "nameEn": "Golden Knight",
+   "nameFa": "شوالیه طلایی",
+   "floor": 10,
+   "boss": false,
+   "release": "update1"
+  },
+  {
+   "id": "M22",
+   "nameEn": "Throne Titan",
+   "nameFa": "تایتان عرش",
+   "floor": 10,
+   "boss": true,
+   "release": "v1.0"
+  }
+ ],
+ "mutators": [
+  {
+   "id": "MU01",
+   "nameEn": "Dark Room",
+   "nameFa": "اتاق تاریک",
+   "floors": [
+    1,
+    3,
+    6,
+    9
+   ],
+   "conflicts": [
+    "T09",
+    "T18"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU02",
+   "nameEn": "Mirror Room",
+   "nameFa": "اتاق آینه",
+   "floors": [
+    4,
+    5
+   ],
+   "conflicts": [
+    "T22",
+    "T17"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU03",
+   "nameEn": "Low Gravity",
+   "nameFa": "جاذبه کم",
+   "floors": [
+    5,
+    10
+   ],
+   "conflicts": [
+    "T27"
+   ],
+   "gauntletSafe": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU04",
+   "nameEn": "Slick Floor",
+   "nameFa": "کف لغزنده",
+   "floors": [
+    2,
+    8
+   ],
+   "conflicts": [
+    "T33",
+    "T02"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU05",
+   "nameEn": "Knee-Deep Water",
+   "nameFa": "آب تا زانو",
+   "floors": [
+    6
+   ],
+   "conflicts": [
+    "T31"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU06",
+   "nameEn": "Echo Hall",
+   "nameFa": "تالار پژواک",
+   "floors": [
+    3,
+    4
+   ],
+   "conflicts": [
+    "T09"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU07",
+   "nameEn": "Rhythm Room",
+   "nameFa": "اتاق ریتم",
+   "floors": [
+    2,
+    5
+   ],
+   "conflicts": [],
+   "gauntletSafe": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU08",
+   "nameEn": "Overclock",
+   "nameFa": "اضافه‌بار",
+   "floors": [
+    5,
+    7,
+    9
+   ],
+   "conflicts": [
+    "T57"
+   ],
+   "gauntletSafe": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU09",
+   "nameEn": "Downpour",
+   "nameFa": "رگبار",
+   "floors": [
+    6,
+    8
+   ],
+   "conflicts": [
+    "T13"
+   ],
+   "gauntletSafe": true,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU10",
+   "nameEn": "Tiny Heroes",
+   "nameFa": "قهرمانان کوچک",
+   "floors": [
+    2,
+    4
+   ],
+   "conflicts": [
+    "R19"
+   ],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU11",
+   "nameEn": "Gold Rain",
+   "nameFa": "باران سکه",
+   "floors": [
+    1,
+    7
+   ],
+   "conflicts": [],
+   "gauntletSafe": false,
+   "release": "v1.0"
+  },
+  {
+   "id": "MU12",
+   "nameEn": "Mute Room",
+   "nameFa": "اتاق سکوت",
+   "floors": [
+    5,
+    9
+   ],
+   "conflicts": [
+    "T26"
+   ],
+   "gauntletSafe": false,
+   "release": "update1"
+  },
+  {
+   "id": "MU13",
+   "nameEn": "Memory Room",
+   "nameFa": "اتاق حافظه",
+   "floors": [
+    4,
+    10
+   ],
+   "conflicts": [
+    "T18",
+    "T23"
+   ],
+   "gauntletSafe": false,
+   "release": "update1"
+  }
+ ]
+}
