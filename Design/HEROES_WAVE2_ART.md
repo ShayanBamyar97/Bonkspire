@@ -3,7 +3,7 @@
 **همراه:** [`HEROES_WAVE2.md`](HEROES_WAVE2.md) (کیت و اسکین‌ها) · **مرجع‌ها:** SPEC §۲۶ (کتاب هنر)، §۲۳.۳ (بودجه)، §۲۰ (بدون متن روی مدل)، §۲۶.۴ (زبان رنگ تله‌ها)، §۲۶.۷ (سطوح کیفیت)  
 **تاریخ:** ۲۰۲۶-۱۰-۲۶ · **وضعیت:** پیشنهاد
 
-این سند از ۱۰ تصویر مرجعی که صاحب پروژه فرستاد **اصول** را بیرون می‌کشد و روی ۱۰ هیرو پیاده می‌کند. خود تصاویر وارد مخزن نمی‌شوند.
+این سند از ۴۳ تصویر مرجعی که صاحب پروژه در چهار دسته فرستاد **اصول** را بیرون می‌کشد و روی ۱۰ هیرو (و هیولاها) پیاده می‌کند. خود تصاویر وارد مخزن نمی‌شوند.
 
 ---
 
@@ -18,6 +18,8 @@
 | لاک‌پشت + نوار چشم رنگی + دو خنجر کوتاه | تناسب چاق و پاهای پهن |
 | الگوی دقیق لباس قهرمان‌های کمیک | رنگ‌بندی بلوکی ۳ رنگ |
 | نوشته «POLICE» یا هر کلمه روی لباس | نماد بدون متن (SPEC §۲۰: هیچ متنی روی مدل) |
+| سر هلالی کشیده + آرواره بیرون‌زده (موجود شناخته‌شده یک فیلم) | سر کشیده برای سیلوئت، با شکل خودمان |
+| خزنده غول دوپا با ردیف خارهای پشتی (هیولای شناخته‌شده یک فیلم) | اژدها و خزنده با سیلوئت خودمان (بال، شاخ، دم) |
 
 * تصاویر مرجع **در مخزن commit نمی‌شوند** و **به‌عنوان تصویر ورودی به مدل‌های تولید تصویر داده نمی‌شوند.** پرامپت‌های بخش ۶ فقط متنی‌اند.
 
@@ -37,6 +39,60 @@
 | ۸ | پلیس آینده با پهپادهای همراه و نقاب نقطه‌دار سبز | **پهپاد همراه در ارتفاع سر** کاملاً خواناست؛ تک‌رنگ + یک درخشش | سیما، گردآفرید Mythic |
 | ۹ | تندیس جنگجوی لاک‌پشتی چاق | **تناسب چاق**، ایستادن پهن، دست و پای بزرگ، نوار پارچه برای حرکت ثانویه | دیو سپید، ضحاک، فرهاد |
 | ۱۰ | چهار پرتره نیروی ویژه با درخشش نقاب متفاوت | **رنگ درخشش نقاب = هویت فوری**؛ چهار نسخه از یک بدن با سرپوش متفاوت = همان منطق سطح‌بندی اسکین | اسکین‌های گردآفرید؛ قانون Epic (بخش ۳) |
+
+### ۱.۱. دسته دوم (۱۱ تا ۲۷)
+
+چند تصویر این دسته نسخه کامل پرتره‌های دسته اول‌اند (مثلاً ۱۵، ۱۶، ۱۷ و ۱۸ از شبکه ۷؛ ۱۳، ۲۳ و ۲۶ از ۱۰). بیشتر این دسته **ترسناک و شیطانی** است و برای **هیولاها** (§۵: طبقه ۳ تیمارستان و طبقه ۱۰ عرش) مناسب‌تر از هیروهاست. قوانین محتوای بخش ۳.۱ روی همه آن‌ها اعمال می‌شود.
+
+| # | مرجع (توصیف) | اصل طراحی | کجا استفاده می‌شود |
+| :--- | :--- | :--- | :--- |
+| ۱۱ | شکارچی باستانی با کلاه جمجمه و شاخ گوزن، شنل پوست، نیزه | **شاخ روی سر بزرگ‌ترین سیلوئت ممکن از بالاست**؛ شنل پوست به پشت حجم می‌دهد | شاخ‌های دیو سپید؛ هیولاهای طبقه ۱؛ ایده اسکین آینده «شکارچی عصر سنگ» |
+| ۱۲ | چهار شیطان ترسناک (کلاه‌خود خاردار، نقاب طلایی با تاج شاخه‌ای، ردای زنجیری) | سرپوش‌های اغراق‌شده که از دور شناخته می‌شوند | هیولاهای طبقه ۳ و ۱۰؛ بختک |
+| ۱۳ | تک‌تیرانداز علمی-تخیلی با کلاه، نقاب سرخ درخشان و شنل پاره | کلاه + نقاب درخشان = هویت در تاریکی؛ لبه پاره شنل = حرکت ثانویه | گردآفرید Mythic؛ بختک Epic |
+| ۱۴ | چهار شخصیت سایبری (زره مشکی براق با خطوط آبی، نقاب چهارچراغ، کلاه شفاف بنفش، نقاب سرخ) | **نقاب چندچراغ = چهره بدون صورت**؛ متریال تیره براق فقط با Rim قوی دیده می‌شود | سیما، گردآفرید |
+| ۱۵ | غول گِلی-سنگی با یک مشت سنگی عظیم و لوله‌ها | **عدم تقارن:** یک دست غول‌پیکر از بالا فوراً خواناست | فرهاد Mythic (مشت سنگی)؛ دیو سپید |
+| ۱۶ | خفاش انسان‌نما با گوش‌های قرمز بزرگ و بال | گوش و بال پهن = سیلوئت افقی؛ نور از پشت پرده بال | جایگزین بختک Mythic؛ هیولای طبقه ۳ |
+| ۱۷ | زن شیطانی با شاخ، دم و شمشیر بزرگ | شاخ + دم + سلاح بزرگ‌تر از بدن = سیلوئت عالی؛ **لباس طبق ۳.۱ کامل عوض شود** | فقط اصل سیلوئت؛ ایده هیروی آینده با پوشش کامل |
+| ۱۸ | ربات بتنی با دریچه‌های نارنجی درخشان پشت | دریچه‌های درخشان پشت از بالا و پشت خواناست؛ حرف «M» روی سینه ممنوع | پهپاد کیمیا، سیما Mythic، هیولاهای طبقه ۵ و ۹ |
+| ۱۹ | زن بالدار با بال‌های پرده‌ای قرمز، شاخ و دم | بال بزرگ = سیلوئت؛ خون و صورت زخمی برای ۱۲+ ممنوع | فقط اصل بال؛ زروان Mythic |
+| ۲۰ | نقاب طلایی با تاج شاخه‌ای شعاعی و زنجیرهای آویزان | **تاج شعاعی یا هاله از بالا مثل یک ستاره دیده می‌شود** | اسفندیار Mythic (وارث تاج)؛ هیولاهای طبقه ۱۰ |
+| ۲۱ | کلاه‌خود بادبزنی خاردار، ردا، داس و فانوس ساعت شنی | **فانوس ساعت شنی = نماد زمان در دست**؛ کلاه بادبزنی از بالا | زروان: فانوس ساعت شنی برای ژست بیکار و `Cut-in` |
+| ۲۲ | ردای کلاه‌دار تا زمین با کمربند زنجیر | ردای بلند = شکل قطره؛ زنجیر = حرکت ثانویه ارزان | بختک؛ هیولاهای طبقه ۳ |
+| ۲۳ | امدادگر علمی-تخیلی با جلیقه سفید و نقاب کریستالی آبی | نقاب کریستالی خوش‌رنگ؛ **نشان صلیب سرخ یا هلال احمر ممنوع** (۳.۱) | ایده اسکین آینده گردآفرید «امدادگر» با نماد ترمیم غیرصلیبی |
+| ۲۴ | دختر سایبرپانک با کلاه و بارانی شفاف بنفش | متریال شفاف زیبا ولی روی موبایل گران است (۳.۱)؛ لباس باز ممنوع | سیما Epic با جنس «شفاف‌نما» |
+| ۲۵ | چترباز علمی-تخیلی با تیغه‌های بال‌مانند پشت و خطوط آبی | تیغه‌های پشت از بالا شکل X می‌سازند | سیما، گردآفرید Mythic |
+| ۲۶ | تک‌تیرانداز با پالتوی بلند و درخشش سرخ اسلحه | درخشش روی سلاح جهت حمله را نشان می‌دهد | آرش (درخشش برنجی کمان، نه سرخ) |
+| ۲۷ | موجود بیگانه باریک با سر کشیده و آرواره باز | سر کشیده = سیلوئت؛ ولی شبیه موجود یک فیلم شناخته‌شده است ← فقط اصل | هیولاهای طبقه ۵ |
+
+### ۱.۲. دسته سوم (۲۸ تا ۳۳) — حیوان‌ها و مرکب‌ها
+
+همراه این دسته درخواست شد: **«بعضی هیروها حیوان خاص باشند یا سوار بر حیوان‌هایی مثل اسب و اژدها.»** نتیجه: آرش 🐎، اسفندیار 🦅، یوز 🐆 و سوری 🐉 (سند هیروها، بخش ۰.۱). یکی از تصاویر تکرار مرجع ۲۲ است.
+
+| # | مرجع (توصیف) | اصل طراحی | کجا استفاده می‌شود |
+| :--- | :--- | :--- | :--- |
+| ۲۸ | موجود شاخکی با دهان گل‌مانند | شاخک‌های بلند از بالا شکل ستاره می‌سازند؛ دهان باز برای ۱۲+ باید کارتونی شود | هیولاهای طبقه ۵ و ۶ |
+| ۲۹ | بسته شخصیت‌های زن (گوش و دم روباه، لباس مدرسه، خدمتکار، خرگوش، لباس راهبه، پری دریایی) | **فقط یک اصل:** گوش و دم حیوانی سیلوئت را عوض می‌کنند. بقیه طبق ۳.۱ ممنوع | ایده هیروی دورگه حیوانی آینده با پوشش کامل |
+| ۳۰ | گوریل، بزمرد شاخ‌دار، گرگینه | حیوان دوپا: قوز و شانه پهن از بالا خواناست؛ **پشم با دسته‌های بزرگ رنگ، نه شیدر مو** | دیو سپید؛ هیولاها |
+| ۳۱ | شوالیه زره‌پوش سوار بر اسب زره‌دار | **زره اسب (برگستوان) سیلوئت مرکب را می‌سازد**؛ سوار و مرکب یک داستان رنگ دارند | بادپا (اسب آرش)، شیردال اسفندیار |
+| ۳۲ | مجموعه ۱۲ موجود خیالی (اژدهای بال‌دار، لاک‌پشت گدازه، ماهی بیگانه، پروانه، …) | بال پرده‌ای، شاخ و خار پشت = سیلوئت اژدها؛ ترک‌های گدازه درخشان = درخشش با کارکرد | اخگر (اژدهای سوری)؛ هیولاهای طبقه ۶ و ۱۰ |
+| ۳۳ | (تکرار مرجع ۲۲) | — | — |
+
+### ۱.۳. دسته چهارم (۳۴ تا ۴۳) — هیروهای زن و موجودات
+
+همراه این دسته درخواست شد: **«هیروهای دختر هم بساز، با اندام زنانه جذاب برای مخاطبان.»** نتیجه: پریزاد، شیرین و بانوگشسب (سند هیروها، بخش ۰.۲). چند تصویر این دسته لباس باز یا ژست جنسی دارند؛ از آن‌ها فقط اصل شکل برداشته شد (بخش ۳.۳).
+
+| # | مرجع (توصیف) | اصل طراحی | کجا استفاده می‌شود |
+| :--- | :--- | :--- | :--- |
+| ۳۴ | قهرمان مرد با لباس چسبان شعله‌ای و یقه V عمیق | **نقش شعله به‌عنوان بلوک رنگ** روی ساق و آستین؛ یقه باز طبق ۳.۱ ممنوع (برای مردها هم) | اسکین‌های آتش (سوری، چهارشنبه‌سوری) |
+| ۳۵ | قهرمان شنل‌دار با یقه بلند و سبیل (شبیه شخصیت یک انیمیشن شناخته‌شده) | **یقه بلند و سرشانه پهن از بالا یک شکل بزرگ و خوانا می‌سازد** | فقط اصل؛ ایده سرشانه برای زروان Epic |
+| ۳۶ | جنگجوی اورک با تبر و دندان نیش | تناسب سنگین، زره نامتقارن روی یک شانه | هیولاهای طبقه ۱ و ۹؛ دیو سپید |
+| ۳۷ | قهرمان زن بالدار با لباس زرد و سرمه‌ای (شخصیت شناخته‌شده یک فیلم) | بال حشره‌ای + خطوط باریک تأکید روی لباس جذب | فقط اصل؛ بال‌های پریزاد پروانه‌ای و نگارگری‌اند |
+| ۳۸ | مجسمه زن بالدار با لباس باز | فقط اصل: بال پرده‌ای و شاخ = سیلوئت | — |
+| ۳۹ | جنگجوی زن «آماده بازی» با شمشیر بزرگ روی پشت | **نزدیک‌ترین مرجع به سبک ما** (نقاشی‌شده، زره درشت، کم‌مثلث)؛ سلاح بزرگ روی پشت از بالا دیده می‌شود؛ بالاتنه باز باید پوشیده شود | بانوگشسب (شمشیرهای ضربدری روی پشت) |
+| ۴۰ | پری دریایی با دم فلس‌دار | فقط اصل: دامن بلندی که مثل دم ماهی باز می‌شود (با پوشش کامل) | دامن قبای شیرین |
+| ۴۱ | اژدهای آبی پهن (شبیه سفره‌ماهی) با ۳ رنگ‌بندی | **همان مدل با ۳ رنگ = نمونه عالی اسکین Rare**؛ بدن پهن از بالا بسیار خواناست | هیولای طبقه ۶؛ ایده مرکب آبی آینده |
+| ۴۲ | مجموعه هیولاهای استیم‌پانک (صندوق دهان‌دار، ربات اره‌دار، سوار بال‌دار) | **صندوق میمیک** همان صندوق دهان‌دار SPEC است؛ اره و چرخ‌دنده = سیلوئت ماشینی | هیولاهای طبقه ۵، ۷ و ۹ |
+| ۴۳ | موجود حشره‌ای قرمز با دم بلند | پاهای بلند و دم = سیلوئت ستاره‌ای؛ بدون لکه خون | هیولاهای طبقه ۵ و ۶ |
 
 ---
 
@@ -63,6 +119,42 @@
    * **Epic:** ۱ تا ۳ قطعه مدل عوض می‌شود و **حداقل یکی از آن‌ها روی سقف است** (سرپوش، پشت یا سلاح بالای سر)؛ وگرنه بازیکن چیزی را که خریده در بازی نمی‌بیند (درس مرجع ۱۰).
    * **Mythic:** سیلوئت جدید + درخشش جدید + VFX جدید.
 7. **پارچه و شنل:** سقف ۶۰ استخوان (§۲۳.۳). شنل‌ها با ۲–۴ استخوان یا تاب‌خوردن در شیدر رأس (`Vertex Shader`)، نه شبیه‌سازی پارچه.
+8. **عدم تقارن (مرجع ۱۵):** یک عضو اغراق‌شده (مشت، شانه، سلاح) سیلوئت را از بالا یکتا می‌کند. حداکثر یک عضو نامتقارن برای هر هیرو تا خوانایی جهت حرکت از بین نرود.
+9. **جنس شفاف (مرجع ۲۴):** شفافیت واقعی روی موبایل `Overdraw` و مشکل ترتیب رسم دارد. به‌جایش جنس **«شفاف‌نما»**: `Opaque` با `Fresnel` و رنگ روشن لبه، یا `Dither` در کیفیت Low.
+
+### ۳.۱. قوانین محتوا (برای مرجع‌های ترسناک و شیطانی)
+
+| قانون | چرا | مرجع‌هایی که درگیرند |
+| :--- | :--- | :--- |
+| **بدون خون، زخم باز، دهان خونی یا بدن مثله‌شده** | رده ۱۲+، «بدون خون واقعی، سبک کارتونی» (SPEC §۲۴.۳ و §۲۴.۴) | ۱۲، ۱۶، ۱۹، ۲۷ |
+| **پوشش کامل:** بدون یقه باز عمیق، شورت کوتاه، لباس شفاف بدن‌نما یا بالاتنه برهنه، برای زن و مرد | رده ۱۲+ و قوانین محتوای فروشگاه‌های ایرانی (بازار، مایکت؛ SPEC §۲۱.۶)؛ پیش از تولید با پرسشنامه رده‌بندی فروشگاه‌ها تأیید شود | ۱۲، ۱۷، ۱۹، ۲۴ |
+| **بدون نام یا نماد اهریمن‌شناسی دینی** (مثل نام‌های «Asmodeus»، «Mammon»، «Succubus» که روی تصاویر نوشته شده) | بی‌طرفی دینی (§۰ سند هیروها)؛ به‌جایش موجودات فولکلور ایرانی: **دیو، پری، آل، بختک، غول بیابانی** | ۱۲، ۱۹، ۲۰، ۲۱، ۲۲ |
+| **بدون صلیب سرخ، هلال احمر یا کریستال سرخ** روی امدادگرها | این نشان‌ها طبق کنوانسیون‌های ژنو حمایت‌شده‌اند؛ نماد ترمیم بازی = **برگ یا قلب سبز** | ۲۳ |
+| **بدون حرف، کلمه یا لوگو** روی مدل | SPEC §۲۰؛ ترجمه‌پذیر نیست و از بالا خوانده نمی‌شود | ۱۴، ۱۸ |
+| **سرخ فقط روی صورت یا سلاح، نه روی زمین** | سرخ در زبان رنگ تله‌ها یعنی دمیج (§۲۶.۴) | ۱۳، ۲۶ |
+| **بدون لباس مدرسه با ظاهر جنسی و بدون لباس‌های نقش‌آفرینی جنسی** (خرگوش، خدمتکار) | خط قرمز مطلق | ۲۹ |
+| **بدون لباس دینی** (راهبه، روحانی) | بی‌طرفی دینی | ۲۹ |
+
+### ۳.۲. هیروهای سوار و حیوانی (از دید دوربین بالا)
+
+1. **سوار باید از بالا دیده شود:** سر و رنگ تأکید سوار بالاتر از بدن مرکب؛ مرکب پالت کم‌اشباع‌تر از سوار دارد.
+2. **مرکب کوتاه و چاق:** تناسب پونی یا عروسکی، درازا ≤ ۱.۸ متر، پاهای کوتاه (شعاع برخورد `0.65m`).
+3. **جهت حرکت روشن:** سر مرکب = جلو. برای پسیو جهت‌دار اسفندیار حیاتی است.
+4. **پشم و پر:** دسته‌های بزرگ نقاشی‌شده روی مش؛ بدون `Fur Shader` یا پوسته‌های مو (روی موبایل گران‌اند).
+5. **حیوان تنها (یوز):** مهار رنگی = بلوک رنگ تأکید و حامل تجهیزات؛ «خط اشک» زیر چشم = هویت در `Cut-in`.
+6. **بال‌ها:** در حالت عادی جمع (سیلوئت کوچک)؛ فقط در مهارت باز می‌شوند (لحظه دیدنی).
+7. **بودجه:** سوار + مرکب ≤ ۱۴ هزار مثلث، ≤ ۷۵ استخوان، یک اطلس ۱۰۲۴² (استثنای پیشنهادی، سند هیروها ۰.۱).
+
+### ۳.۳. هیروهای زن جذاب در چارچوب رده ۱۲+
+
+در تناسب ۳.۵ سر (§۲۶.۲) جذابیت از بدن برهنه نمی‌آید؛ از این‌ها می‌آید:
+
+1. **چهره:** چشم‌های درشت و گیرا، حالت‌های مطمئن و گرم؛ در `Cut-in`، لابی و ویترین فروشگاه دیده می‌شود.
+2. **مو:** مدل موی امضا (گیس بافته، دم‌اسبی پرحجم، تاج گل) که از بالا هم دیده می‌شود و حرکت ثانویه زیبا دارد.
+3. **سیلوئت:** خط «S» در طراحی، کمر مشخص با کمربند، شال یا کت جذب، دامن یا قبای بلندی که با حرکت باز می‌شود.
+4. **حرکت:** انیمیشن بیکار و پیروزی با شخصیت (رقص‌گونه برای پریزاد، باوقار برای شیرین، پرانرژی برای بانوگشسب).
+5. **مد:** گلدوزی، جواهر، پارچه‌های براق و برش‌های امروزی؛ اسکین‌ها با ترندهای مد (صحنه، ورزش، اسکیت).
+6. **مرز:** بزرگسال، پوشش کامل، بدون یقه باز، شکم یا ران برهنه، بدون ژست یا زاویه دوربین جنسی؛ مرجع‌های ۳۸، ۳۹ و ۴۰ فقط برای شکل.
 
 ---
 
@@ -72,16 +164,21 @@
 
 | هیرو | پالت (۳ + تأکید) | هویت از بالا | مرجع‌ها | درخشش (کارکرد) | پرهیز |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **فرهاد** | `#C8924A` اُخرا، `#B0643A` مس، `#1F5E63` فیروزه‌ای تیره، **`#FFB23E` کهربا** | شکل «T»: کلنگ-مته افقی روی پشت + فانوس کلاه | ۹ (تناسب چاق)، ۷ | فانوس کلاه با انرژی التیمیت روشن‌تر می‌شود | حکاکی ریز سنگ‌نگاره روی بدن (از بالا دیده نمی‌شود؛ فقط در Mythic و به‌صورت بلوک‌های بزرگ) |
+| **فرهاد** | `#C8924A` اُخرا، `#B0643A` مس، `#1F5E63` فیروزه‌ای تیره، **`#FFB23E` کهربا** | شکل «T»: کلنگ-مته افقی روی پشت + فانوس کلاه | ۹ (تناسب چاق)، ۷، ۱۵ (مشت سنگی نامتقارن برای Mythic) | فانوس کلاه با انرژی التیمیت روشن‌تر می‌شود | حکاکی ریز سنگ‌نگاره روی بدن (از بالا دیده نمی‌شود؛ فقط در Mythic و به‌صورت بلوک‌های بزرگ) |
 | **لُعبت** | `#C0283C` قرمز پرده، `#E3B23C` خردلی، `#6B3FA0` بنفش، **`#FFD86B` نخ طلایی** | دو لکه (او و عروسک) + صلیب نخ بالای سرش | ۷ (تنوع بدن)، ۴ | نخ‌های طلایی بین دست و عروسک | عروسک خیلی کوچک (حداقل نصف قد لعبت تا از بالا دیده شود) |
-| **بختک** | `#1A1424` سیاه جوهری، `#5B2C6F` بنفش کبود، `#E6E1D3` سفید مهتابی، **`#FF3B3B` چشم** | قطره تیره بزرگ + نقاب سفید رو به بالا + یک نقطه قرمز | ۳ (پالت تیره)، ۷ (موجود سنگین)، ۶ | چشم با انرژی التیمیت درشت‌تر می‌شود | قرمز روی زمین (معنای دمیج دارد)؛ دامن کفن تیره و کم‌اشباع بماند |
-| **زروان** | `#23264F` نیلی، `#C9A44C` برنج، `#E8D5B0` شنی، **`#3FE0D0` فیروزه‌ای زمان** | **حلقه‌های اسطرلاب افقی** دور بدن (از بالا عالی‌اند) + ساعت شنی | ۵ (تاج/بال برای Mythic)، ۳ | شن داخل ساعت شنی = نوار انرژی التیمیت | نقش دقیق صورت‌های فلکی (فقط Mythic، درشت) |
-| **سیما** | `#12C2C2` فیروزه‌ای برقی، `#E0389C` سرخابی، `#2B2D33` گرافیتی، **`#F2C14E` پر طلایی** | «پروانه»: بال‌های پهپادی پهن افقی | ۲ (زائده پشتی، خطوط درخشان)، ۸ (پهپاد همراه) | ۳۰ پهپاد یکی‌یکی با انرژی روشن می‌شوند | شکل سوسکی برای کوله؛ پهپادها پرنده‌شکل‌اند، نه حشره‌شکل |
+| **بختک** | `#1A1424` سیاه جوهری، `#5B2C6F` بنفش کبود، `#E6E1D3` سفید مهتابی، **`#FF3B3B` چشم** | قطره تیره بزرگ + نقاب سفید رو به بالا + یک نقطه قرمز | ۳ (پالت تیره)، ۷ (موجود سنگین)، ۶، ۲۲ (ردای تا زمین)، ۱۶ (گوش و بال برای Mythic جایگزین) | چشم با انرژی التیمیت درشت‌تر می‌شود | قرمز روی زمین (معنای دمیج دارد)؛ دامن کفن تیره و کم‌اشباع بماند |
+| **زروان** | `#23264F` نیلی، `#C9A44C` برنج، `#E8D5B0` شنی، **`#3FE0D0` فیروزه‌ای زمان** | **حلقه‌های اسطرلاب افقی** دور بدن (از بالا عالی‌اند) + ساعت شنی | ۵ (تاج/بال برای Mythic)، ۳، ۲۱ (فانوس ساعت شنی در دست برای ژست بیکار و `Cut-in`) | شن داخل ساعت شنی = نوار انرژی التیمیت | نقش دقیق صورت‌های فلکی (فقط Mythic، درشت) |
+| **سیما** | `#12C2C2` فیروزه‌ای برقی، `#E0389C` سرخابی، `#2B2D33` گرافیتی، **`#F2C14E` پر طلایی** | «پروانه»: بال‌های پهپادی پهن افقی | ۲ (زائده پشتی، خطوط درخشان)، ۸ (پهپاد همراه)، ۲۵ (تیغه‌های پشت)، ۲۴ (هودی «شفاف‌نما» برای Epic) | ۳۰ پهپاد یکی‌یکی با انرژی روشن می‌شوند | شکل سوسکی برای کوله؛ پهپادها پرنده‌شکل‌اند، نه حشره‌شکل |
 | **ضحاک** | `#2E8B57` یشمی، `#A8D82C` سمی، `#D4A52A` طلایی، **`#E5383B` چشم مارها** | «V» بزرگ: دو مار بلند از شانه‌ها، سرشان بالاتر از سر ضحاک | ۹ (بالاتنه سنگین)، ۲ و ۶ (Epic و Mythic) | چشم مارها؛ زهر سبز روی دندان‌ها | حالت ترسناک یا خونین (رده ۱۲+)؛ مارها بامزه و بدجنس |
-| **آرش** | `#B5532E` زنگار، `#9E2235` قرمز گلیم، `#3B5B8C` آبی جین، **`#D9A441` برنج** | **دایره لبه کلاه** + خط مورب کمان | ۳ (کلاه از بالا) | نقش گلیم پانچو با انرژی روشن می‌شود | ترکیب کلاه شاپو + بارانی + ماسک عدسی‌دار (امضای مرجع ۳)؛ آرش پانچو و کلاه لبه‌پهن پردار دارد |
-| **دیو سپید** | `#F2F5F7` برفی، `#8EC9E8` آبی یخچالی، `#5E6A75` لوح، **`#FF8C2E` رون** | دایره بزرگ + دو شاخ قلاب | ۹ (چاق)، ۷ | رون‌های دستبند با انرژی روشن می‌شوند | سفید خالص روی طبقه ۸ گم می‌شود ← سایه آبی و کانتور قوی |
-| **گردآفرید** | `#5B6236` زیتونی، `#C2A878` خاکی، `#7D858C` فولادی، **`#C1121F` شال** | خط مورب نیزه + گیس بافته روی پشت + عینک دید در شب روی کلاه | ۱۰ (نقاب = هویت)، ۸، ۴ (نسخه بی‌کلاه) | لنزهای دید در شب = انرژی التیمیت | متن روی جلیقه؛ قرمز شال فقط روی گردن، نه روی زمین |
-| **اسفندیار** | `#A86B32` مفرغ، `#1E1E24` مرمر سیاه، `#1F3C88` آبی شاهانه، **`#FFF1C1` سفید-طلایی** | **دیسک سپر** + کاکل کلاه‌خود؛ **درخشش چشم جهت نگاه را نشان می‌دهد** (مکانیک جلو/پشت) | ۵ (بال و تاج)، ۱ (بلوک رنگ) | ترک‌های نورانی بدن با «خوان»های التیمیت پر می‌شوند | بال واقعی روی پشت در طرح پایه (برای Mythic بماند) |
+| **آرش** 🐎 | `#B5532E` زنگار، `#9E2235` قرمز گلیم، `#3B5B8C` آبی جین، **`#D9A441` برنج**؛ اسب: قهوه‌ای شاه‌بلوطی کم‌اشباع | **دایره لبه کلاه** روی بدن کشیده اسب + خط مورب کمان؛ سر اسب = جهت حرکت | ۳ (کلاه از بالا)، ۲۶ (درخشش روی سلاح؛ برنجی، نه سرخ)، ۳۱ (زین و زره اسب) | نقش گلیم پانچو با انرژی روشن می‌شود | ترکیب کلاه شاپو + بارانی + ماسک عدسی‌دار (امضای مرجع ۳)؛ آرش پانچو و کلاه لبه‌پهن پردار دارد |
+| **دیو سپید** | `#F2F5F7` برفی، `#8EC9E8` آبی یخچالی، `#5E6A75` لوح، **`#FF8C2E` رون** | دایره بزرگ + دو شاخ قلاب | ۹ (چاق)، ۷، ۱۱ (شاخ روی سر از بالا)، ۱۵ (عدم تقارن) | رون‌های دستبند با انرژی روشن می‌شوند | سفید خالص روی طبقه ۸ گم می‌شود ← سایه آبی و کانتور قوی |
+| **گردآفرید** | `#5B6236` زیتونی، `#C2A878` خاکی، `#7D858C` فولادی، **`#C1121F` شال** | خط مورب نیزه + گیس بافته روی پشت + عینک دید در شب روی کلاه | ۱۰ (نقاب = هویت)، ۸، ۴ (نسخه بی‌کلاه)، ۱۳ (شنل پاره و نقاب درخشان برای Mythic)، ۲۵ | لنزهای دید در شب = انرژی التیمیت | متن روی جلیقه؛ قرمز شال فقط روی گردن، نه روی زمین |
+| **اسفندیار** 🦅 | `#A86B32` مفرغ، `#1E1E24` مرمر سیاه، `#1F3C88` آبی شاهانه، **`#FFF1C1` سفید-طلایی**؛ شیردال: مفرغ تیره‌تر | **دیسک سپر** روی بدن شیردال + کاکل کلاه‌خود؛ **چشم اسفندیار و سر شیردال جهت جلو را نشان می‌دهند** (مکانیک جلو/پشت) | ۵ (بال و تاج)، ۱ (بلوک رنگ)، ۲۰ (هاله تاج شعاعی برای Mythic)، ۳۱ (برگستوان) | ترک‌های نورانی سوار و شیردال با «خوان»های التیمیت پر می‌شوند | بال روی بدن خود اسفندیار (بال‌ها مال شیردال است و در حالت عادی جمع‌اند) |
+| **یوز** 🐆 | `#D9A54A` طلایی شنی، `#F3E3C3` کرم، `#6B3E1F` قهوه‌ای سوخته، **`#1FB5A8` مهار فیروزه‌ای** | «خط کشیده + دم»؛ مهار فیروزه‌ای روی پشت | ۳۰ (حیوان، پشم دسته‌ای)، ۹ (سر و پنجه درشت) | خال‌ها در التیمیت می‌درخشند | چهره واقعی و ترسناک گربه‌سان؛ بامزه و درشت‌چشم بماند |
+| **سوری و اخگر** 🐉 | `#B23A2A` قرمز آجری، `#F1DDB8` کرم شکم، `#6E7444` سبز زیتونی زین، **`#FF8A1F` نارنجی شعله** | بال‌های جمع‌شده + سر اژدها جلوتر از سوار؛ کلاه و عینک خلبانی سوری | ۳۲ (بال پرده‌ای، خار پشت، ترک گدازه)، ۳۱ (زین) | ترک‌های گدازه روی سینه اژدها با انرژی پر می‌شوند | اژدهای ترسناک یا بزرگ؛ اخگر بچه و اندازه یک اسب کوچک است |
+| **پریزاد** | `#E58FA6` صورتی گلی، `#9C7BC8` یاسی، `#F4EBDD` عاجی، **`#F2C14E` طلایی** | بال‌های باز پروانه‌ای + دایره تاج گل | ۳۷ (بال، فقط اصل)، ۲۴ (شفاف‌نما) | رگه‌های بال با انرژی التیمیت روشن می‌شوند | لباس کوتاه یا بدن‌نما؛ بال حشره‌ای شبیه مرجع ۳۷ |
+| **شیرین** | `#EEF2F3` سفید مرواریدی، `#2F7FA6` آبی دریایی، `#1D4E5F` فیروزه‌ای تیره، **`#F08A6C` مرجانی** | گیس بافته + حلقه روبان آب دور بدن | ۴۰ (دامن دم‌ماهی، با پوشش کامل) | روبان‌های آب با انرژی پر می‌شوند | لباس دریایی باز؛ آب شفاف واقعی (گران روی موبایل) |
+| **بانوگشسب** | `#B3263A` زرشکی، `#F3F1EC` سفید برفی، `#6F7D88` فولادی، **`#E7B53C` طلایی** | X شمشیرها روی پشت + یال دم‌اسبی | ۳۹ (سبک و سلاح پشت، با پوشش کامل)، ۹ | تیغه‌ها با لایه‌های پسیو روشن‌تر می‌شوند | زره بیکینی؛ زرشکی روی زمین (رنگ دمیج) |
 
 ---
 
@@ -120,13 +217,20 @@ Show the same character three times, front view, three-quarter view and back vie
 | **فرهاد** | `The hero is a hunched, heavily muscled stone-carver inspired by ancient Persian rock reliefs and dieselpunk mining. He wears a sandstone-ochre work tunic, copper shoulder plates and a deep-teal scarf that trails behind him, a miner's helmet with a glowing amber lantern, and carries a huge pickaxe-drill across his back so his silhouette forms a bold T shape from above. Swatches: sandstone ochre, copper, deep teal, glowing amber.` |
 | **لُعبت** | `The hero is a tall, playful puppeteer girl on wooden stilts, inspired by traditional Persian marionette theater and a circus ringmaster. She wears a crimson theater-curtain coat with mustard-yellow trim and violet stockings, holds a wooden cross-bar control above her head, and golden strings run to her companion puppet: a chubby cloth strongman with a yarn mustache who stands half her height beside her and appears in every view. Swatches: curtain crimson, mustard yellow, violet, golden thread.` |
 | **بختک** | `The hero is a floating nightmare spirit from Persian folklore: a heavy, drooping ink-black velvet shroud shaped like an upside-down teardrop, two long thin arms, and a cracked porcelain mask tilted slightly upward with a single glowing red eye. Bruise-purple folds and pale moon-white highlights, eerie but cartoon-friendly, suitable for a 12+ game. Swatches: ink black, bruise purple, moon white, glowing red.` |
-| **زروان** | `The hero is a tall, ageless robed time-keeper with a lion-mane hood that hides the face, inspired by Persian astrolabes and surreal melting clocks. Three thin brass astrolabe rings orbit horizontally around the body, and a large hourglass filled with glowing cyan sand rides on the back. Midnight-indigo robe with brass trim and sand-beige sashes. Swatches: midnight indigo, brass, sand beige, glowing cyan.` |
+| **زروان** | `The hero is a tall, ageless robed time-keeper with a lion-mane hood that hides the face, inspired by Persian astrolabes and surreal melting clocks. Three thin brass astrolabe rings orbit horizontally around the body, and a large hourglass filled with glowing cyan sand rides on the back. In one hand the figure carries a small brass lantern with a tiny hourglass inside. Midnight-indigo robe with brass trim and sand-beige sashes. Swatches: midnight indigo, brass, sand beige, glowing cyan.` |
 | **سیما** | `The hero is a slim teenage hacker girl in an oversized graphite hoodie and a neon visor, whose wide wings are made of thirty small bird-shaped drones spread horizontally like a butterfly, inspired by Persian geometric tile patterns and cyberpunk streetwear. Electric-teal and magenta light lines run along the drones and sleeves, with small golden feather accents. Swatches: electric teal, magenta, graphite, gold.` |
 | **ضحاک** | `The hero is a broad, top-heavy ancient-Persian-inspired king in a mud-splashed royal robe and a gold crown, with two long cartoonish snakes rising from his shoulders to form a big V shape higher than his head. The left snake looks nervous and the right one looks lazy; both are mischievous rather than scary. Jade-green robe, toxic chartreuse venom drops, royal gold trim, red snake eyes. Swatches: jade green, chartreuse, royal gold, red.` |
-| **آرش** | `The hero is a lean frontier archer blending a legendary Persian bowman with spaghetti-western style: a poncho woven like a red Persian kilim rug, denim-blue trousers, a wide-brimmed desert hat with a single feather whose brim reads as a large circle from above, and a tall composite recurve bow carried over the shoulder like a rifle. Desert-rust leather and brass buckles. Swatches: desert rust, kilim red, denim blue, brass.` |
+| **آرش** | `The hero is a lean frontier horse archer blending a legendary Persian bowman with spaghetti-western style, riding a short, stocky chestnut horse with a braided mane and a saddle blanket woven like a red Persian kilim. He wears a matching kilim poncho, denim-blue trousers and a wide-brimmed desert hat with a single feather whose brim reads as a large circle from above, and holds a tall composite recurve bow. Desert-rust leather and brass buckles. Swatches: desert rust, kilim red, denim blue, brass.` |
 | **دیو سپید** | `The hero is a huge, round, fluffy snow giant, a gentle and slightly clumsy creature with a small head on a massive snowball-shaped body, curled ram horns, big flat feet and heavy slate-stone bracelets carved with glowing orange runes. Snow-white fur with glacier-blue shadows. Friendly, cuddly and strong. Swatches: snow white, glacier blue, slate gray, glowing orange.` |
 | **گردآفرید** | `The hero is an agile female infiltrator who blends ancient Sasanian lamellar armor with modern tactical gear: an olive-drab plate carrier covered in scale-like lamellar plates, a desert-tan helmet with flip-up night-vision lenses, a long braid falling down her back, a crimson scarf, and a hybrid lance-carbine held diagonally. Steel-gray buckles and pouches, no lettering anywhere. Swatches: olive drab, desert tan, steel gray, crimson.` |
-| **اسفندیار** | `The hero is a statuesque bronze champion who looks like a living ancient statue: a crested helmet, a large round bronze shield with a sun-disc motif, thin cracks across the bronze body glowing with white-gold light, black-marble armor plates with royal-blue cloth. His glowing eyes clearly show which way he faces. Swatches: bronze, black marble, royal blue, white-gold glow.` |
+| **اسفندیار** | `The hero is a statuesque bronze champion who looks like a living ancient statue, riding a griffin with a lion's body and an eagle's head and folded wings, inspired by ancient Persian column capitals. He has a crested helmet and a large round bronze shield with a sun-disc motif; thin cracks glowing with white-gold light run across both rider and griffin, with black-marble armor plates and royal-blue cloth. His glowing eyes and the griffin's head clearly show which way they face. Swatches: bronze, black marble, royal blue, white-gold glow.` |
+| **یوز** | `The hero is a cute but athletic Asiatic cheetah standing on four legs, with a long lean body, large dark spots, the black tear-line markings under its big eyes, a long tail with a white tip, and a turquoise leather harness with a small pouch on its back. Sandy-gold fur painted as large soft clumps, cream belly, burnt-brown spots. Swatches: sandy gold, cream, burnt brown, turquoise.` |
+| **سوری و اخگر** | `The hero is a cheerful teenage girl in a leather aviator cap and goggles riding a chubby baby dragon the size of a small pony. The dragon has brick-red scales, a cream belly, small horns, folded leathery wings and glowing orange lava-like cracks on its chest; the saddle is an olive-green nomadic kilim with leather bags. The dragon's head sits clearly in front of the rider. Swatches: brick red, cream, olive green, flame orange.` |
+| **پریزاد** | `The hero is a graceful, beautiful adult woman fairy inspired by Persian miniature paintings, tall and elegant with a defined waist, long wavy dark hair crowned with flowers and ribbons, wearing a long rose-pink silk robe with gold embroidery over loose lilac trousers and a wide sash belt, fully covered, with large butterfly wings that look like stained glass. Kind, confident smile and big expressive eyes. Swatches: rose pink, lilac, ivory, gold.` |
+| **شیرین** | `The hero is an elegant, beautiful adult princess inspired by ancient Persian court fashion, with a long pearl-threaded braid and a small tiara, wearing a fitted, fully covering sea-blue long coat whose layered hem flares like a fish tail, with ribbons of glowing water swirling around her wrists and waist. Poised, warm expression. Swatches: pearl white, sea blue, deep teal, coral.` |
+| **بانوگشسب** | `The hero is an athletic, beautiful adult warrior woman with a confident grin and a tall voluminous ponytail like a lion's mane, wearing fitted scale armor over a padded crimson jacket that covers her fully, a white lion-pelt cape on her shoulders, and two curved Persian swords crossed in an X on her back. Swatches: crimson, snow white, steel gray, gold.` |
+
+> برای **یوز** در پیشوند سبک، عبارت تناسب را با `chunky, toy-like animal proportions with an oversized head and paws` عوض کنید.
 
 **پرامپت اسکین (ویرایش با فهرست ثابت‌ها):** وقتی برگه پایه تأیید شد، آن را به‌عنوان تصویر مرجع بدهید و فقط تغییر را بگویید:
 
