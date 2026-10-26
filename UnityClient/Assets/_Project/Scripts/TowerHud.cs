@@ -3,7 +3,7 @@ using Core = TowerOfChaos.GameCore;
 
 namespace TowerOfChaos.Game
 {
-    /// <summary>IMGUI HUD for the Phase-0 slice (no UI prefabs needed). Real UI (SPEC 16.3 layout, RTL Persian) is a separate epic.</summary>
+    /// <summary>IMGUI HUD for the Phase-0 slice (no UI prefabs needed). Real UI (SPEC 16.3 layout; English default, Persian RTL per SPEC 20) is a separate epic.</summary>
     public sealed class TowerHud : MonoBehaviour
     {
         private TowerBootstrap _b;

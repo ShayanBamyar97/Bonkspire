@@ -17,7 +17,7 @@ CREATE TABLE users (
     device_id VARCHAR(128),
     google_play_id VARCHAR(128) UNIQUE,
     bazaar_Myket_id VARCHAR(128) UNIQUE,
-    preferred_lang VARCHAR(5) NOT NULL DEFAULT 'fa' CHECK (preferred_lang IN ('fa', 'en')),
+    preferred_lang VARCHAR(5) NOT NULL DEFAULT 'en' CHECK (preferred_lang IN ('en', 'fa')),
     account_level INT NOT NULL DEFAULT 1 CHECK (account_level >= 1),
     current_xp BIGINT NOT NULL DEFAULT 0 CHECK (current_xp >= 0),
     gold_balance BIGINT NOT NULL DEFAULT 500 CHECK (gold_balance >= 0),
