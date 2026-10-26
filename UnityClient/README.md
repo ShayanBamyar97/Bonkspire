@@ -4,13 +4,14 @@ Grey-box slice: one hero runs a whole procedurally generated tower. **All rules 
 
 > **Honest status:** this project was assembled on a machine **without Unity installed**. The scripts compile against the real Core library and a stub of
 > the Unity API (`Core/tools/UnityCompileCheck`), which catches typos and wrong Core calls but does **not** prove real Unity signatures.
-> It has **never been opened in Unity**. Open it once in Unity 6 and fix whatever the console reports.
+> It has **never been opened in Unity**. Open it once in Unity 6.3 LTS and fix whatever the console reports.
 
 ## Open and run
 
 1. `python -X utf8 Core/tools/sync_to_unity.py` - rebuilds the Core DLL and `catalog.json` (generated from `SPEC.md`) into
    `Assets/Plugins/TowerOfChaos/` and `Assets/Resources/`. (Those two outputs are git-ignored.)
-2. Open `UnityClient/` with **Unity 6 (6000.0.x LTS)**. Unity Hub may ask to pick an installed 6000.0 editor: `ProjectVersion.txt` is a placeholder (`6000.0.23f1`).
+2. Open `UnityClient/` with **Unity 6.3 LTS (6000.3.27f1)**, the version pinned in `ProjectVersion.txt` (Unity Hub: `unityhub://6000.3.27f1/672d562a42a7`).
+   For phone builds, install the **Android Build Support** module with OpenJDK and Android SDK & NDK Tools.
 3. *Project Settings > Player > Active Input Handling* must be **Input Manager (Old)** or **Both** (the slice uses the legacy `Input`; the HUD shows a warning otherwise).
 4. Press **Play** in any scene (even the empty default): `TowerBootstrap` creates itself, the camera, a light, the hero and the HUD.
 5. Optional: menu **Tower > Apply Project Settings (Android)** sets IL2CPP, ARM64 only, high stripping, landscape.
